@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
+title: rgmagadan
+description: Sitio con apuntes de programación, accesibilidad, lectores de pantalla,  y tecnología en general.
+theme: jekyll-theme-minimal
 paginate: 5
 plugins:
 - jekyll-paginate
