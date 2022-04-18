@@ -5,7 +5,7 @@ tags: Python, Markdown, Programación, Excel
 summary: Enseñando una herramienta para generar tablas fácilmente con Markdown usando Python
 ---
 
-A continuación comento brevemente un pequeño script escrito en Python, que toma el contenido del portapapeles, lo formatea con Markdown y lo escribe en cualquier documento. Al final dejaré el enlace al repositorio que contiene el archivo.
+A continuación comento brevemente un pequeño script escrito en Python que toma el contenido del portapapeles, lo formatea con Markdown y lo escribe en cualquier documento. Al final dejaré el enlace al repositorio que contiene el archivo.
 
 ## La combinación Python con Markdown
 
