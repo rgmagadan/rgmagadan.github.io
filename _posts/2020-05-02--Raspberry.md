@@ -1,11 +1,8 @@
 ---
-layout: post
 Title: Experimentando con una Raspberry Pi
-Date: 2020-05-02 12:00
-Category: Sistemas
-Tags: Accesibilidad, Raspberry, Apache
-Authors: Ramón García
-Summary: Cuento mi experiencia instalando y configurando una Raspberry Pi por primera vez.
+category: Sistemas
+tags: Accesibilidad, Raspberry, Apache
+summary: Cuento mi experiencia instalando y configurando una Raspberry Pi por primera vez.
 ---
 
 Hace un par de días me llegó un kit de inicio para montar una Raspberry Pi, y vamos a ver sin entrar en pormenores, lo que tuve que hacer para ponerla a funcionar y el uso que le estoy dando ahora mismo, que puede que os sorprenda al final.

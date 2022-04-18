@@ -1,11 +1,8 @@
 ---
-layout: post
-Title: Lector de pantalla en la Raspberry con EmacSpeak
-Date: 2020-07-07 18:00
-Category: Raspberry
-Tags: EmacSpeak, Raspberry, lector de pantalla
-Authors: Ramón García
-Summary: Cuento cómo he hecho que hable la Rasperry usando EmacSpeak, un editor de texto con lector de pantalla.
+title: Lector de pantalla en la Raspberry con EmacSpeak
+category: Raspberry
+tags: EmacSpeak, Raspberry, lector de pantalla
+summary: Cuento cómo he hecho que hable la Rasperry usando EmacSpeak, un editor de texto con lector de pantalla.
 ---
 
 Estaba tan  contento utilizando la Raspberry como servidor, manejándola a través de *ssh*, hasta que empecé a pensar que además también podría usarla directamente conectándole un teclado e instalándole un lector de pantalla.

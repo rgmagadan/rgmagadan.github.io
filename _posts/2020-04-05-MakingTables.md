@@ -1,11 +1,8 @@
-
 ---
-layout: postTitle: Generando tablas en Markdown con Python
-Date: 2020-04-05 12:33
-Category: Productividad
-Tags: Python, Markdown, Programación, Excel
-Authors: Ramón García
-Summary: Enseñando una herramienta para generar tablas fácilmente con Markdown usando Python
+title: Generando tablas en Markdown con Python
+category: Productividad
+tags: Python, Markdown, Programación, Excel
+summary: Enseñando una herramienta para generar tablas fácilmente con Markdown usando Python
 ---
 
 A continuación comento brevemente un pequeño script escrito en Python, que toma el contenido del portapapeles, lo formatea con Markdown y lo escribe en cualquier documento. Al final dejaré el enlace al repositorio que contiene el archivo.
