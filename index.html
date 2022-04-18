@@ -8,7 +8,7 @@ layout: default
 &nbsp;
 <p class="author"><span class="date">{{ post.date | date: "%d/%m/%Y" }}</span></p>
 &nbsp;
-<div class="content">{{ post.sumary }}</div>
+<div class="content">{{ post.excerpt }}</div>
 {% endfor %} <!-- Pagination links -->
 <div class="pagination">
     {% if paginator.previous_page %}
